@@ -1,6 +1,6 @@
 # GitHub usercard
 
-Simple app which fetching GitHub info based on the username input.
+Simple app which is fetching GitHub info based on the username input.
 
 ## Instalation
 
