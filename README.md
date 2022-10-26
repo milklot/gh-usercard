@@ -18,6 +18,10 @@ To run the app type this [npm](https://www.npmjs.com/) command in the gh-usercar
 npm start
 ```
 
+## Deployed website
+
+[click here](https://gh-usercard.netlify.app/)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
